@@ -36,3 +36,7 @@ nav {
     z-index: 1000;     /* Ensures it appears above other elements */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: adds a slight shadow */
   }
+body{margin: 0;}
+    main{
+        padding-top: 60px;
+    }
